@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "FSAS"
-version = "0.1.0"
+version = "0.1.1"
 description = "Yet another implementation of a filesystem file size and search cli app."
 authors = ["Daniel Charpentier <daniel.charpentier@gmail.com>"]
 readme = "README.md"
